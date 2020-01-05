@@ -14,7 +14,7 @@ Every student should have or :
 2. Install Python 3.7
 3. Install Git
 4. Log into your Github account.  (Create an account if needed).
-5. Clone [this repository](https://github.com/innomadic/compilers_student_2019) to your Github account
+5. Duplicate [this repository](https://github.com/innomadic/compilers_student_2019) to your Github account [using the instructions for mirroring a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 6. Change the settings of the repository to be *private*
 7. Add your instructor as a collaborator of your repository
 8. Clone *your new repository* to your computer
